@@ -1,0 +1,35 @@
+{
+    "result": [
+        {
+            "cid": 1, 
+            "customer_id": 1, 
+            "name": "Barry", 
+            "oid": 1, 
+            "price": 2.5
+        }, 
+        {
+            "cid": 2, 
+            "customer_id": 2, 
+            "name": "Todd", 
+            "oid": 4, 
+            "price": 2
+        }, 
+        {
+            "cid": 3, 
+            "customer_id": 3, 
+            "name": "Steve", 
+            "oid": 2, 
+            "price": 5
+        }, 
+        {
+            "cid": 5, 
+            "customer_id": 5, 
+            "name": "Rodney", 
+            "oid": 6, 
+            "price": 4
+        }
+    ], 
+    "result_count": 4, 
+    "skipped_left": 3, 
+    "skipped_right": 1
+}
