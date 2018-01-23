@@ -8,6 +8,13 @@
             "price": 2.5
         }, 
         {
+            "cid": 1, 
+            "customer_id": 1, 
+            "name": "Barry", 
+            "oid": 7, 
+            "price": 10
+        }, 
+        {
             "cid": 2, 
             "customer_id": 2, 
             "name": "Todd", 
@@ -22,6 +29,13 @@
             "price": 5
         }, 
         {
+            "cid": 3, 
+            "customer_id": 3, 
+            "name": "Steve", 
+            "oid": 3, 
+            "price": 2
+        }, 
+        {
             "cid": 5, 
             "customer_id": 5, 
             "name": "Rodney", 
@@ -29,7 +43,7 @@
             "price": 4
         }
     ], 
-    "result_count": 4, 
-    "skipped_left": 3, 
+    "result_count": 6, 
+    "skipped_left": 1, 
     "skipped_right": 1
 }

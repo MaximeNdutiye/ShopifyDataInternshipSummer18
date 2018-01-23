@@ -12,3 +12,16 @@ Shopify data intership problem summer 2018
     
     ./joiner.py inner|left|right left_table right_table field1 field2 
 ```
+
+### examples
+
+```
+    # perform inner join on customers.json and orders.json
+    # with keys cid and customer_id
+    # output is in file result.json
+    
+    ./joiner.py inner customers.json orders.json cid customer_id
+    
+```
+
+created with 💚 by maxime
